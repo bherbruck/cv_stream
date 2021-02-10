@@ -1,0 +1,3 @@
+# NOTE: intentionally not versioned
+opencv-python
+flask
