@@ -9,7 +9,7 @@ with open('requirements.txt') as f:
 
 setuptools.setup(
     name='cv_stream',
-    version='0.1.0',
+    version='0.1.1',
     author='Brennen Herbruck',
     author_email='brennen.hrbruck@gmail.com',
     description='Remote OpenCV development server',
