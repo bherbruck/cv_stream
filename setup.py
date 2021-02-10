@@ -17,6 +17,8 @@ setuptools.setup(
     long_description_content_type='text/markdown',
     url='https://github.com/bherbruck/cv_stream',
     packages=['cv_stream'],
+    include_package_data=True,
+    zip_safe=False,
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
